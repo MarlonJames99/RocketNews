@@ -2,10 +2,13 @@
   <a href="#-Tecnologias">Tecnologias</a> |
   <a href="#-Projeto">Projeto</a> |
   <a href="#-Layout">Layout</a> |
-  <a href="#-Licença">Licença</a>
+  <a href="#-Licença">Licença</a> |
+  <a href="#-Créditos">Créditos</a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/99052605/172713663-f0b86e36-a2f3-4b57-8482-66f732750a76.png" width="950px">
+<br>
+
+![RocketNewsPreview](https://user-images.githubusercontent.com/97669160/200919475-aeccf5f8-430c-4797-9d1a-9fd34dd6a8ab.PNG)
 
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -22,4 +25,7 @@ Você pode visualizar o layout do projeto através <a href="https://www.figma.co
 ## 📝 Licença
 Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/leonunesdev/RocketNews/blob/main/LICENSE">LICENSE</a> para mais detalhes
 
-Feito com 💜 by Leandro Nunes 👋
+## 👋 Créditos
+
+Projeto desenvolvido por Leandro Nunes.
+Com contribuições minhas na parte da estilização e responsividade da página.
