@@ -19,6 +19,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 Neste projeto foi desenvolvido uma página de captação de leads ou newsletter.
 
+#### Link: https://leonunesdev.github.io/RocketNews/
+
 ## 🔖 Layout
 Você pode visualizar o layout do projeto através <a href="https://www.figma.com/file/PFXRgE4AJYqT3QoEuAtgFH/DD-%2F-RocketNews-(Copy)">desse link</a>. É necessário ter conta no <a href="https://www.figma.com/files/recent?fuid=1102968563677691331">Figma</a> para acessá-lo.
 
@@ -27,5 +29,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.co
 
 ## 👋 Créditos
 
-Projeto desenvolvido por Leandro Nunes.
+Projeto desenvolvido por Leandro Nunes. <br>
 Com contribuições minhas na parte da estilização e responsividade da página.
